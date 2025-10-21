@@ -1,7 +1,6 @@
-public static void class Account {
+public class Account {
 
-    public static void method {
-        Systemd.ebug('This is test');
+ public static void logMessage() {
+        System.debug('This is a test');
     }
-
 }
