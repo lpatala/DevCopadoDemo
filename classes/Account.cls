@@ -1,6 +1,6 @@
 public class Account {
 
  public static void logMessage() {
-        System.debug('This is a test');
+        System.debug('This is a test our github');
     }
 }
